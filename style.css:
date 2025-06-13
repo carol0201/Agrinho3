@@ -2,16 +2,15 @@
 
 /* Variáveis */
 :root {
- --  --primary-color: #696969;
-    --secondary-color: #132513;
-    --text-color: #486935;
-    --background-color: #d4d4d4;
+ --  --primary-color:rgb(71, 39, 186);
+    --secondary-color:rgb(209, 97, 142);
+    --text-color:rgb(177, 244, 138);
+    --background-color:rgb(195, 172, 172);
     --button-hover: #a6c588;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
 }
-
 /* código omitido */
 /* código omitido */
 
