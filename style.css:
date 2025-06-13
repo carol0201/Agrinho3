@@ -2,13 +2,14 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
+ --  --primary-color: #696969;
+    --secondary-color: #132513;
+    --text-color: #486935;
+    --background-color: #d4d4d4;
+    --button-hover: #a6c588;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
+}
 }
 
 /* código omitido */
@@ -42,52 +43,3 @@ img {
 }
 
 /* código omitido */
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Exemplo</title>
-  <style>
-    .header { background-color: #333; color: white; padding: 10px; }
-    .footer { background-color: #333; color: white; padding: 5px; }
-  </style>
-</head>
-<body>
-
-  <div class="header">
-    <h1>Bem-vindo</h1>
-  </div>
-
-  <div class="footer">
-    <p>© 2025</p>
-  </div>
-
-</body>
-</html>
-/* código omitido */
-
-/* Responsividade */
-@media (max-width: 768px) {
-    .conteudo {
-        width: 90%;
-    }
-
-    nav ul {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 5px 0;
-    }
-
-    .cta-button {
-        width: 100%;
-    }
-}
-<form>
-  <input type="text" id="name" placeholder="Digite seu nome">
-  <input type="email" id="email" placeholder="Digite seu e-mail">
-  <input type="submit" value="Enviar">
-</form>
