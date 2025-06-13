@@ -2,7 +2,7 @@
 
 /* Variáveis */
 :root {
- --  --primary-color:rgb(71, 39, 186);
+ --  --primary-color:rgb(187, 178, 219);
     --secondary-color:rgb(209, 97, 142);
     --text-color:rgb(177, 244, 138);
     --background-color:rgb(195, 172, 172);
@@ -11,7 +11,6 @@
     --font-titulo: "Rakkas", serif;
 }
 }
-
 /* código omitido */
 /* código omitido */
 
